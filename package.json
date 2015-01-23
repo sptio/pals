@@ -1,0 +1,23 @@
+{
+  "name": "pals",
+  "version": "1.0.0",
+  "description": "'using' for javascript and friends",
+  "main": "pals.js",
+  "author": {
+    "name": "Dan Finch",
+    "email": "d@nfin.ch",
+    "url": "http://da.nfin.ch/"
+  },
+  "homepage": "http://github.com/secretFriendly/pals",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/secretFriendly/pals"
+  },
+  "license": "Public Domain",
+  "scripts": {
+    "prepublish": "lsc -c .",
+    "clean": "rm *.js"
+  },
+  "dependencies": {
+  }
+}
