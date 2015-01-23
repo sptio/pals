@@ -31,7 +31,7 @@ This is how you use pals:
 Discriminating hackers will use livescript:
 
 ```livescript
-  pals = [require \lodash]
+  pals = [require \prelude-ls]
   eval require \pals
 ```
 
