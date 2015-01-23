@@ -19,5 +19,8 @@
     "clean": "rm *.js"
   },
   "dependencies": {
-  }
+  },
+  "devDependencies": {
+    "LiveScript": "~1.2.0"
+  }  
 }
